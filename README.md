@@ -31,3 +31,6 @@ npm run start
 ```
 
 ### I'll see you in the next one! 🚀
+
+### Deployed on
+https://mern-crashcourse-nfpv.onrender.com
